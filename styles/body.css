@@ -6,3 +6,10 @@ body {
     height: 100vh;
     background: url("../assets/bg-smartphone.jpg") center center / cover no-repeat fixed;
 }
+
+/*Laptop Version*/
+@media (min-width: 769px) {
+    body {
+        background: url("../assets/bg-notebook.jpg") center center / cover no-repeat fixed;
+    }
+}

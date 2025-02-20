@@ -9,14 +9,14 @@
     background-color: #131313;
 }
 
-/*Para Tablet*/
+/*Tablet Version*/
 @media (min-width: 769px) {
     .container {
         width: 50%;
     }
 }
 
-/*Para Notebook*/
+/*Laptop Version*/
 @media (min-width: 1025px) {
     .container {
         width: 40%;

@@ -30,7 +30,7 @@ h1 {
     font-size: 1.5rem;
 }
 
-/*Para Tablets*/
+/*Tablet Version*/
 @media (min-width: 769px) {
     h1 {
         font-size: 2.7rem;
@@ -44,7 +44,7 @@ h1 {
     }
 }
 
-/*Para Notebook*/
+/*Laptop Version*/
 @media (min-width: 1025px) {
     img {
         width: 12rem;
