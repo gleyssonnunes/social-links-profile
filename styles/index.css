@@ -1,2 +1,5 @@
 @import url("global.css");
+@import url("body.css");
+@import url("header.css");
+@import url("container.css");
 @import url("utilities.css");
