@@ -4,4 +4,5 @@ body {
     align-items: center;
     width: auto;
     height: 100vh;
+    background: url("../assets/bg-smartphone.jpg") center center / cover no-repeat fixed;
 }
