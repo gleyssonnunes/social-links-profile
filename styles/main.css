@@ -1,0 +1,38 @@
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    padding-bottom: 3rem;
+}
+
+img {
+    margin: 1rem;
+}
+
+.itens-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 1rem;
+    background-color: #1b1a1a;
+    width: 30rem;
+    cursor: pointer;
+    transition: background-color 0.3s linear, transform 0.3s linear;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.3rem;
+}
+
+a:hover {
+    font-weight: 500;
+}
+
+.itens-container:hover {
+    background-color: green;
+    transform: scale(1.03);
+}
