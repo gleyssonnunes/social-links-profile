@@ -8,3 +8,17 @@
     border-radius: 1rem;
     background-color: #131313;
 }
+
+/*Para Tablet*/
+@media (min-width: 769px) {
+    .container {
+        width: 50%;
+    }
+}
+
+/*Para Notebook*/
+@media (min-width: 1025px) {
+    .container {
+        width: 40%;
+    }
+}

@@ -36,3 +36,10 @@ a:hover {
     background-color: green;
     transform: scale(1.03);
 }
+
+/*Para Notebook*/
+@media (min-width: 1025px) {
+    a {
+        font-size: 1.6rem;
+    }
+}
